@@ -1,7 +1,7 @@
 
-# Mini Projects
+# Projects
 
-This is the main repository for all of the mini projects I have made.
+This is the main repository for all of the projects I have made.
 
 
 ### 🛠 JS-HTML-CSS
