@@ -4,7 +4,7 @@
 This is the main repository for all of the projects I have made.
 
 
-### 🛠 JS-HTML-CSS
+### Javascript-LogoHtml-LogoCSS-Logo  JS-HTML-CSS
   
 | # | Project     | Tags | Live Demo |
 | - | ----------- | ---- | ----- |
