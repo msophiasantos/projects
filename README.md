@@ -1,8 +1,12 @@
 
 # Projects
 
-This is the main repository for all of the projects I have made.
+## This repository has all sorts of projects. Here the code is provided along with live demo or final outcomes.
 
+### All the code is present inside the directories for respective category. Presently the available categories are
+1. JS-HTML-CSS 📁 : Guide
+2. React 📁 : Guide
+3. Python 📁 : Guide
 
 ### JS-HTML-CSS
   
