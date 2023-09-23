@@ -6,7 +6,6 @@
 ### All the code is present inside the directories for respective category. Presently the available categories are
 1. JS-HTML-CSS 📁 : Guide
 2. React 📁 : Guide
-3. Python 📁 : Guide
 
 ### JS-HTML-CSS
   
