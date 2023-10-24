@@ -7,9 +7,10 @@
 
 ### JS-HTML-CSS
   
-| # | Project        | HTML               | CSS           | JS                | Live Demo                                                 |
-| - | -------------- | ------------------ | ------------- |-------------------| --------------------------------------------------------- |
-| 1 | Jokes Generator| div, h3, div, btn  | Flexbox       | API               |[Live Demo](https://verdant-seahorse-dec89b.netlify.app/)  |
-| 2 | Movie App      |header, form, input |               | API, ASYNC        |[Live Demo](https://main--illustrious-speculoos-f1e7f0.netlify.app/) |
+| # | Project        | Tags              | Live Demo                                                 |
+| - | -------------- |-------------------| --------------------------------------------------------- |
+| 1 | Jokes Generator| API               |[Live Demo](https://verdant-seahorse-dec89b.netlify.app/)  
+| 2 | Movie App      | API, ASYNC        |[Live Demo](https://main--illustrious-speculoos-f1e7f0.netlify.app/) |
+| 3 | Personal Portfolio|             | [Live Demo](https://effervescent-mandazi-76ad1d.netlify.app/)
                                  
 
