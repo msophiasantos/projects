@@ -11,7 +11,7 @@
 | - | -------------- |-------------------| --------------------------------------------------------- |
 | 1 | Jokes Generator| API               |[Live Demo](https://verdant-seahorse-dec89b.netlify.app/)  
 | 2 | Movie App      | API, ASYNC        |[Live Demo](https://main--illustrious-speculoos-f1e7f0.netlify.app/) |
-| 3 | Personal Portfolio|             | [Live Demo](https://effervescent-mandazi-76ad1d.netlify.app/)
+| 3 | Personal Portfolio|             | [Live Demo](https://main--tranquil-croissant-962de2.netlify.app/)
 | 4 | Dice Generator | | [Live Demo](https://main--splendid-duckanoo-863170.netlify.app/)
                                  
 
