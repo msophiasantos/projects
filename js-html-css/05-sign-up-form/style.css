@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+
+
+.flex {
+  display: flex;
+}
+
+
+
+.input-form {
+  flex-direction: column;
+  box-shadow: 0 5px 10px -5px gray;
+  min-height: 18.75rem;
+  justify-content: center;
+  padding-left: 3.125rem;
+  background-color: #fff;
+}
+
+
+.input-form h2 {
+  padding-bottom: 1.25rem;
+}
+
+.input div {
+  flex-direction: column;
+
+}
+
+.input {
+  flex-wrap: wrap;
+  column-gap: 4.375rem;
+  row-gap: 1.5625rem;
+
+}
+
+
+
+
+.image-sidebar {
+  background-image: url(images/blueberry.jpg);
+  min-height: 100vh;
+  min-width: 37.153vw;
+  padding-top: 13.75rem;
+  flex-direction: column;
+  background-size: cover;
+
+}
+
+.logo {
+  background-color: rgba(0, 0, 0, 0.5);
+  align-items: center;
+  justify-content: center;
+  min-height: 9.375rem;
+}
+
+.logo img {
+  width: 8%;
+  margin-right: 5px;
+}
+
+
+.logo h1 {
+  color: white;
+  font-family: "Lora", serif;
+  font-size: 1.6rem;
+}
+
+
+
+
+.dummy-text,
+form>button,
+.form-sidebar>p {
+  margin-left: 3.125rem;
+}
+
+.form-sidebar {
+  background-color: #eee;
+}
+
+.dummy-text>p {
+  font-size: 1.5rem;
+  max-width: 42rem;
+}
+
+
+.dummy-text p:first-child {
+  padding-bottom: 0.625rem;
+}
+
+
+.dummy-text {
+  min-height: 23.125rem;
+  max-height: 23.125rem;
+  padding-top: 10.5rem;
+  padding-bottom: 3.75rem;
+
+}
